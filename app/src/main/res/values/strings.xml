@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExchangeDiaryApp</string>
+
+    <!-- 퍼미션 -->
+    <string name="text_permission_error">일부 퍼미션을 거부하여 앱을 사용하실 수 없습니다. 앱을 종료합니다</string>
+
+    <!-- Login -->
+    <string name="text_login">Login</string>
+    <string name="kakao_native_key">00bd2febc020a594ad5d73cd989f0ae6</string>
+</resources>
